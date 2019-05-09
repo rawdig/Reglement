@@ -1,6 +1,7 @@
-Regler for makerspacet
+# Regler for makerspacet
 
-1. Oppfør deg!
+## Oppfør deg!
+
 Være grei. Vis hensyn. Hjelp andre. 
 Hvis noen spør, så er det fordi de ønsker å lære. Ikke vær nedlatende.
 
