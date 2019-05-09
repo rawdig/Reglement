@@ -5,10 +5,10 @@
 Være grei. Vis hensyn. Hjelp andre. 
 Hvis noen spør, så er det fordi de ønsker å lære. Ikke vær nedlatende.
 
-2. Vi er inkluderende
+## Vi er inkluderende
 Makerspacet er en inkluderende og åpen arena. Alle er velkommen. Du skal behandle alle likt uansett kjønn, yrke, nasjonalitet, kunnskapsnivå. 
 
-3. Rydd etter deg!
+## Rydd etter deg!
 Rydd alltid opp etter deg. Rydd mens du jobber, da blir det ikke så mye å rydde til slutt. Ikke sett igjen ting. Alt som er forlatt i makerspacet tilfaller makerspacet. Til og med hvis du setter navnet ditt på det. Lagring skal kun skje etter avtale med makerspacet.
 Manglende rydding kan straffes med gebyr eller ved gjentakelse, utestengelse.
 
